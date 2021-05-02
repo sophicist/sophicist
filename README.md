@@ -1,4 +1,4 @@
-![jkhamz-portfolio](https://drive.google.com/file/d/1sIzSJCPKardf-7fAT0GxVfRXR08tP5R-/view?usp=sharing)
+![jkhamz-portfolio](https://firebasestorage.googleapis.com/v0/b/aesops-ke.appspot.com/o/portfolios%2Fjkamz-portfolio.jpeg?alt=media&token=5881bfd9-e645-4943-a642-afaa297c9467)
 
 ### Hi there 👋
 - 🔭 I’m currently working on machine learning on [@aesopske](https://aesops.co.ke)
